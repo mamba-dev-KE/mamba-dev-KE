@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mamba-dev-KE
+- 👋 Hi, I’m Joseph Maramba aka @mamba-dev-KE
 - 👀 I’m interested in fullstack web development
 - 🌱 I’m currently learning react and node
 - 💞️ I’m looking to collaborate on frontend or backend web development projects
