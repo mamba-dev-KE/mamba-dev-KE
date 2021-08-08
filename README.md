@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Joseph Maramba aka @mamba-dev-KE
 - 👀 I’m interested in fullstack web development
-- 🌱 I’m currently learning react and node
+- 🌱 I’m currently learning Nextjs and Tailwindcss
 - 💞️ I’m looking to collaborate on frontend or backend web development projects
 - 📫 How to reach me on twitter: @Maramba_Joseph
 
