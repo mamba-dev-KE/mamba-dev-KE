@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Joseph Maramba
 - 👀 I’m interested in fullstack web development
-- 🌱 I’m currently learning Node and Mongo 
-- - 💞️ I’m looking to collaborate on frontend or backend web development projects
+- 💞️ I’m looking to collaborate on fullstack projects
 - 📫 How to reach me on twitter: @Maramba_Joseph
 
 <!---
